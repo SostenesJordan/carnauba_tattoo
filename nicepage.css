@@ -3,13 +3,8 @@
  * License https://froala.com/wysiwyg-editor/terms/
  * Copyright 2014-2021 Froala Labs
  */
-@font-face {
-  font-family: deathcrow;
-  src: url("fonte/death_crow/DEATHCROW.ttf");}
-  
-body{
-  font-family: deathcrow;
-}
+
+
 
 .fr-clearfix::after {
   clear: both;
@@ -125,6 +120,7 @@ body{
         color: #43A047; } */
   .fr-view span.fr-emoticon {
     font-weight: normal;
+    font-family: "Apple Color Emoji","Segoe UI Emoji","NotoColorEmoji","Segoe UI Symbol","Android Emoji","EmojiSymbols";
     display: inline;
     line-height: 0; }
     .fr-view span.fr-emoticon.fr-emoticon-img {
@@ -160,7 +156,7 @@ body{
     background-clip: padding-box;
     background: #f5f5f5;
     padding: 10px;
-    }
+    font-family: "Courier New", Courier, monospace; }
   .fr-view .fr-class-transparency {
     opacity: 0.5; }
   .fr-view img {
@@ -3993,7 +3989,7 @@ span.fr-img-caption.fr-view {
 }
 /*end-commonstyles library*//*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 html {
-  
+  font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -4085,7 +4081,7 @@ code,
 kbd,
 pre,
 samp {
-  
+  font-family: monospace,monospace;
   font-size: 1em;
 }
 hr {
@@ -4640,7 +4636,7 @@ ol {
   cursor: pointer;
   color: inherit;
   font-size: inherit;
-  
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -4697,7 +4693,7 @@ ol {
 .u-tab-item a,
 .u-nav-item a {
   font-size: inherit;
-  
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -4765,7 +4761,7 @@ a {
   font-style: inherit !important;
   font-size: inherit !important;
   font-weight: inherit !important;
-  
+  font-family: inherit !important;
   line-height: inherit !important;
   letter-spacing: inherit !important;
   text-transform: inherit !important;
@@ -4773,7 +4769,7 @@ a {
 .u-logo {
   color: inherit;
   font-size: inherit;
-  
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -17335,7 +17331,7 @@ div.u-video,
   display: block;
   white-space: nowrap;
   font-size: inherit;
-
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -17757,6 +17753,60 @@ p {
 .u-word-break {
   word-break: break-all;
 }
+.u-font-arial.u-custom-font {
+  font-family: Arial, sans-serif !important;
+}
+.u-font-courier-new.u-custom-font {
+  font-family: 'Courier New', monospace !important;
+}
+.u-font-georgia.u-custom-font {
+  font-family: Georgia, serif !important;
+}
+.u-font-roboto.u-custom-font {
+  font-family: Roboto, sans-serif !important;
+}
+.u-font-open-sans.u-custom-font {
+  font-family: 'Open Sans', sans-serif !important;
+}
+.u-font-lato.u-custom-font {
+  font-family: deathcrow !important;
+}
+.u-font-montserrat.u-custom-font {
+  font-family: Montserrat, sans-serif !important;
+}
+.u-font-roboto-condensed.u-custom-font {
+  font-family: 'Roboto Condensed', sans-serif !important;
+}
+.u-font-source-sans-pro.u-custom-font {
+  font-family: 'Source Sans Pro', sans-serif !important;
+}
+.u-font-oswald.u-custom-font {
+  font-family: Oswald, sans-serif !important;
+}
+.u-font-raleway.u-custom-font {
+  font-family: Raleway, sans-serif !important;
+}
+.u-font-pt-sans.u-custom-font {
+  font-family: 'PT Sans', sans-serif !important;
+}
+.u-font-ubuntu.u-custom-font {
+  font-family: Ubuntu, sans-serif !important;
+}
+.u-font-titillium-web.u-custom-font {
+  font-family: 'Titillium Web', sans-serif !important;
+}
+.u-font-merriweather.u-custom-font {
+  font-family: Merriweather, serif !important;
+}
+.u-font-roboto-slab.u-custom-font {
+  font-family: 'Roboto Slab', serif !important;
+}
+.u-font-playfair-display.u-custom-font {
+  font-family: 'Playfair Display', serif !important;
+}
+.u-font-lobster.u-custom-font {
+  font-family: Lobster, display !important;
+}
 .u-rectangle {
   border-radius: 0;
 }
@@ -17825,7 +17875,7 @@ p {
 .u-social-url {
   color: inherit;
   font-size: inherit;
- 
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -17928,7 +17978,9 @@ blockquote .small:before {
 .u-search-right.u-search input {
   padding-left: 0.8em;
 }
-
+.u-search input::placeholder {
+  font-family: inherit;
+}
 .u-search-icon {
   box-sizing: content-box;
 }
@@ -19516,7 +19568,7 @@ a.pswp__share--download:hover {
 }
 .u-accordion-link {
   font-size: inherit;
-  
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -19625,7 +19677,7 @@ a.pswp__share--download:hover {
 .u-carousel-control-next {
   color: inherit;
   font-size: inherit;
- 
+  font-family: inherit;
   line-height: inherit;
   letter-spacing: inherit;
   text-transform: inherit;
@@ -20517,7 +20569,17 @@ a.u-button-style.u-border-20 {
   border-radius: 50px !important;
 }
 /*begin-variables font-family*/
-
+.u-body {
+  font-family: 'Open Sans',sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Roboto,sans-serif;
+}
 /*end-variables font-family*/
 /*begin-variables color*/
 .u-overlap.u-overlap-transparent .u-header,
@@ -20535,8 +20597,12 @@ a.u-button-style.u-border-20 {
 }
 /*end-variables color*/
 /*begin-variables font*/
-
-
+.u-custom-font.u-text-font {
+  font-family: 'Open Sans',sans-serif !important;
+}
+.u-custom-font.u-heading-font {
+  font-family: Roboto,sans-serif !important;
+}
 /*end-variables font*/
 /*begin-variables colors*/
 .u-none.u-button-style,
