@@ -1,4 +1,12 @@
- .u-section-1 {
+@font-face {
+  font-family: deathcrow;
+  src: url("fonte/death_crow/DEATHCROW.ttf");}
+  
+body{
+  font-family: deathcrow;
+}
+
+.u-section-1 {
   background-image: none;
 }
 

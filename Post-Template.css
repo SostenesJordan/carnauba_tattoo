@@ -1,3 +1,11 @@
+@font-face {
+  font-family: deathcrow;
+  src: url("fonte/death_crow/DEATHCROW.ttf");}
+  
+body{
+  font-family: deathcrow;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 835px;
 }
