@@ -35280,11 +35280,12 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-social-icons-1 {
   white-space: nowrap;
-  height: 38px;
-  min-height: 16px;
-  width: 86px;
-  min-width: 42px;
+  height: 39px;
+  min-height: 41px;
+  width: 91px;
+  min-width: 44px;
   margin: 0 0 0 auto;
+  left: -19px;
 }
 
 .u-footer .u-icon-1 {
