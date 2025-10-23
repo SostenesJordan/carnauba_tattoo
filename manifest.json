@@ -1,0 +1,40 @@
+{
+    "name": "Carnaúba Tattoo - Arte que Inspira",
+    "short_name": "Carnaúba Tattoo",
+    "description": "Studio especializado em tatuagem realista, Black and Gray. Arte que inspira e transforma.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#c9a961",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "images/logo.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "images/logo.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "maskable any"
+        }
+    ],
+    "categories": ["lifestyle", "entertainment", "business"],
+    "lang": "pt-BR",
+    "screenshots": [
+        {
+            "src": "images/screenshot-wide.jpg",
+            "sizes": "1280x720",
+            "type": "image/jpeg",
+            "form_factor": "wide"
+        },
+        {
+            "src": "images/screenshot-narrow.jpg",
+            "sizes": "640x1136",
+            "type": "image/jpeg",
+            "form_factor": "narrow"
+        }
+    ]
+}
