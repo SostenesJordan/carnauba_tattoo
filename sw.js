@@ -5,7 +5,7 @@ const urlsToCache = [
     '/index_modern.html',
     '/modern-style.css',
     '/modern-script.js',
-    '/images/logo.jpg',
+    '/images/logo.jpeg',
     '/images/video_inicial.mp4',
     '/fonte/death_crow/DEATHCROW.ttf',
     'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap',

@@ -93,10 +93,10 @@ body {
 .loading-logo img {
     width: 80px;
     height: 80px;
-    border-radius: 50%;
+    /* border-radius: 50%; */
     object-fit: cover;
     margin-bottom: 20px;
-    box-shadow: 0 10px 30px var(--shadow-medium);
+    /* box-shadow: 0 10px 30px var(--shadow-medium); */
 }
 
 .loading-text {
