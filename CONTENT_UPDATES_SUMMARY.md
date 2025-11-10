@@ -1,4 +1,4 @@
-# Carnaúba Tattoo - Content Updates Summary
+# Carnauba Tattoo - Content Updates Summary
 
 ## 📝 Content Successfully Updated to English
 
@@ -12,7 +12,7 @@ All content has been updated according to the provided specifications. The websi
 - **Secondary CTA**: "View Works"
 
 #### 👨‍🎨 **2. About Section**
-- **Updated Title**: "Meet the Artist - Matheus Carnaúba"
+- **Updated Title**: "Meet the Artist - Matheus Carnauba"
 - **New Content**: Focuses on specialization in Black & Grey Realism, sleeves, full backs, leg pieces, and cover-ups
 - **Specialties Updated**: 
   - Black & Grey Realism
@@ -87,7 +87,7 @@ All content has been updated according to the provided specifications. The websi
 #### **SEO & Accessibility**
 - **Meta Tags**: Updated for English content and keywords
 - **Language**: Changed to `lang="en-US"`
-- **Title**: "Carnaúba Tattoo - Black & Grey Realism Specialist"
+- **Title**: "Carnauba Tattoo - Black & Grey Realism Specialist"
 - **Description**: Optimized for search engines
 
 ### 🎨 **Design Consistency:**
@@ -138,4 +138,4 @@ All content has been updated according to the provided specifications. The websi
 
 ---
 
-**🚀 Result**: A completely professional, English-language website that positions Carnaúba Tattoo as a premium Black & Grey Realism specialist in the Kirkland, WA market. The site now includes all requested content sections with modern design and functionality.
+**🚀 Result**: A completely professional, English-language website that positions Carnauba Tattoo as a premium Black & Grey Realism specialist in the Kirkland, WA market. The site now includes all requested content sections with modern design and functionality.

@@ -1,4 +1,4 @@
-// Service Worker for Carnaúba Tattoo Website
+// Service Worker for Carnauba Tattoo Website
 const CACHE_NAME = 'carnauba-tattoo-v1.0.0';
 const urlsToCache = [
     '/',

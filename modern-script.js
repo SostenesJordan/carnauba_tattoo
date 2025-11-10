@@ -1,4 +1,4 @@
-// ===== MODERN JAVASCRIPT FOR CARNAÚBA TATTOO =====
+// ===== MODERN JAVASCRIPT FOR CARNAUBA TATTOO =====
 
 class CarnaaubaTattoo {
     constructor() {
@@ -418,7 +418,7 @@ class CarnaaubaTattoo {
     }
 
     createWhatsAppMessage(data) {
-        let message = `🎨 *New Consultation Request - Carnaúba Tattoo*\n\n`;
+        let message = `🎨 *New Consultation Request - Carnauba Tattoo*\n\n`;
         message += `👤 *Name:* ${data.name}\n`;
         message += `📧 *Email:* ${data.email}\n`;
         

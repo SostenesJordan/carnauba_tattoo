@@ -91,10 +91,12 @@ body {
 }
 
 .loading-logo img {
-    width: 80px;
+    width: auto;
     height: 80px;
+    max-width: 120px;
     /* border-radius: 50%; */
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
     margin-bottom: 20px;
     /* box-shadow: 0 10px 30px var(--shadow-medium); */
 }
@@ -164,10 +166,12 @@ body {
 }
 
 .logo-img {
-    width: 45px;
+    width: auto;
     height: 45px;
+    max-width: 80px;
     /* border-radius: 50%; */
-    object-fit: cover;
+    object-fit: contain;
+    object-position: center;
     /* border: 2px solid var(--primary-color); */
 }
 
@@ -885,10 +889,12 @@ section {
 }
 
 .footer-logo-img {
-    width: 60px;
+    width: auto;
     height: 60px;
-    border-radius: 50%;
-    object-fit: cover;
+    max-width: 100px;
+    border-radius: 0;
+    object-fit: contain;
+    object-position: center;
     margin-bottom: 16px;
 }
 

@@ -1,8 +1,8 @@
-# Carnaúba Tattoo - Website Moderno
+# Carnauba Tattoo - Website Moderno
 
 ## 🎨 Sobre o Projeto
 
-Este é o site reformulado do Carnaúba Tattoo com um design moderno, responsivo e otimizado. O site foi completamente redesenhado para oferecer uma experiência de usuário superior e refletir a qualidade profissional do trabalho artístico.
+Este é o site reformulado do Carnauba Tattoo com um design moderno, responsivo e otimizado. O site foi completamente redesenhado para oferecer uma experiência de usuário superior e refletir a qualidade profissional do trabalho artístico.
 
 ## ✨ Características Principais
 
@@ -179,7 +179,7 @@ Para suporte técnico ou dúvidas sobre implementação:
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido especificamente para o Carnaúba Tattoo. Todos os direitos reservados.
+Este projeto foi desenvolvido especificamente para o Carnauba Tattoo. Todos os direitos reservados.
 
 ---
 
